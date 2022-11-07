@@ -17,6 +17,7 @@ emacs: https://github.com/belak/base16-emacs
 everything: https://github.com/spitfire05/base16-everything
 foot: https://gitlab.com/ArenM/base16-foot
 frescobaldi: https://github.com/rkubosz/base16-frescobaldi
+fuzzel: https://github.com/dark-beep-boop/base16-fuzzel
 fzf: https://github.com/fnune/base16-fzf
 gnome-terminal: https://github.com/aarowill/base16-gnome-terminal
 godot: https://github.com/Calinou/base16-godot
