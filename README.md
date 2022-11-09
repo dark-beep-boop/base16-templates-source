@@ -19,7 +19,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Crosh](https://github.com/philj56/base16-crosh) maintained by [philj56](https://github.com/philj56)
 * [CSS, Less, Sass/Scss & Stylus](https://github.com/samme/base16-styles) maintained by [samme](https://github.com/samme)
 * [Doom](https://github.com/MArpogaus/base16-doom) maintained by [MArpogaus](https://github.com/MArpogaus)
-* [Dunst](https://github.com/khamer/base16-dunst) maintained by [khamer](https://github.com/khamer)
+* [Dunst](https://github.com/dark-beep-boop/base16-dunst) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [Emacs](https://github.com/belak/base16-emacs) maintained by [belak](https://github.com/belak)
 * [Foot](https://git.sr.ht/~rockorager/base16-foot) maintained by [rockorager](https://github.com/rockorager)
 * [Fuzzel](https://github.com/dark-beep-boop/base16-fuzzel) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
