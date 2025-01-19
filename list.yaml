@@ -78,7 +78,7 @@ vim-airline-themes: https://github.com/dawikur/base16-vim-airline-themes
 vim: https://github.com/chriskempson/base16-vim
 vimiv: https://github.com/karlch/base16-vimiv
 vis: https://github.com/pshevtsov/base16-vis
-vscode: https://github.com/golf1052/base16-vscode
+vscode: https://github.com/tinted-theming/tinted-vscode
 waybar: https://github.com/mnussbaum/base16-waybar
 wezterm: https://github.com/krgn/base16-wezterm
 windows-command-prompt: https://github.com/iamthad/base16-windows-command-prompt
